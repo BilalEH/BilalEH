@@ -3,12 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bilal%20EL-Haoudar&desc=Crafting%20Digital%20Experiences&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&descAlignY=60" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bilal%20EL-Haoudar&desc=Building%20Innovative%20Web%20Solutions&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&descAlignY=60" width="100%">
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Computer+and+Network+Engineering+Student+%7C+Full-Stack+developer;Building+the+web+one+line+at+a+time" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right">
 </div>
 
 <div align="center">
@@ -25,7 +24,7 @@
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="100%">
       <p>Hi there! 👋 I'm a passionate Full Stack Developer from Morocco with a love for creating elegant, efficient solutions to complex problems.</p>
       <p>My journey in web development has equipped me with a diverse skill set spanning front-end aesthetics to back-end architecture. I enjoy crafting intuitive user experiences while ensuring robust functionality under the hood.</p>
       <ul>
@@ -35,9 +34,9 @@
         <li>🔭 Looking to collaborate on innovative web projects</li>
         <li>💬 Ask me about <b>React, Laravel, MongoDB, JavaScript</b></li>
       </ul>
-    </td>
-    <td width="30%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300">
+      </div>
     </td>
   </tr>
 </table>
@@ -47,95 +46,118 @@
   <h2><img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40"> Tech Universe</h2>
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="background-color: #0d1117;">
-    <th style="padding: 15px; text-align: center; color: #58a6ff; border: 1px solid #30363d;">Frontend</th>
-    <th style="padding: 15px; text-align: center; color: #58a6ff; border: 1px solid #30363d;">Backend</th>
-    <th style="padding: 15px; text-align: center; color: #58a6ff; border: 1px solid #30363d;">Database</th>
-    <th style="padding: 15px; text-align: center; color: #58a6ff; border: 1px solid #30363d;">DevOps & Tools</th>
+<table align="center">
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Database</th>
+    <th align="center">DevOps & Tools</th>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br>React
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/>
+      <br>Laravel
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br>Docker
     </td>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-HTML5/CSS3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+      <br>Node.js
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Git%20&%20CI/CD-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-    </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
+      <br>Kubernetes
     </td>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML/CSS"/>
+      <br>HTML/CSS
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+      <br>Express
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git & CI/CD
     </td>
   </tr>
   <tr>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br>TypeScript
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
+      <br>PHP
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL Server"/>
+      <br>SQL Server
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+      <br>C
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center">
       <!-- Empty cell for balance -->
     </td>
-    <td style="padding: 12px; text-align: center; border: 1px solid #30363d;">
-      <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br>AWS
     </td>
   </tr>
 </table>
@@ -285,7 +307,7 @@ pie
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaleh&theme=dracula&hide_border=true&radius=10" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaleh&theme=react-dark&hide_border=true&radius=10" width="90%">
 </div>
 
 <!-- QUOTE SECTION -->
@@ -297,8 +319,7 @@ pie
 <!-- SPOTIFY SECTION -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="40"> Music Vibes</h2>
-  <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" width="200px"/>
-  <p>🎵 Currently vibing to coding playlists while building amazing web experiences!</p>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1" alt="Spotify" width="400px"/>
 </div>
 
 <!-- CONNECT SECTION -->
