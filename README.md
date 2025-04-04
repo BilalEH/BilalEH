@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Computer+and+Network+Engineering+Student+%7C+Full-Stack+developer;Building+the+web+one+line+at+a+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=600&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Computer+and+Network+Engineering+Student;Full-Stack+developer;Building+the+web+one+line+at+a+time" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML/CSS"/>
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
       <br>HTML/CSS
     </td>
     <td align="center">
@@ -162,68 +162,70 @@
   </tr>
 </table>
 
-<!-- SKILLS SECTION WITH CREATIVE VISUALIZATION -->
+<!-- SKILLS SECTION WITH CREATIVE VISUALIZATION - FIXED VERSION -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Expertise Level</h2>
 </div>
 
 <div align="center">
+  <!-- Using a simple HTML table for the pie chart instead of Mermaid -->
+  <table>
+    <tr>
+      <td colspan="4" align="center"><h3>Skill Distribution</h3></td>
+    </tr>
+    <tr>
+      <td width="45%" bgcolor="#4F46E5" style="color:white;text-align:center;padding:10px;">Frontend (45%)</td>
+      <td width="30%" bgcolor="#10B981" style="color:white;text-align:center;padding:10px;">Backend (30%)</td>
+      <td width="15%" bgcolor="#F59E0B" style="color:white;text-align:center;padding:10px;">Database (15%)</td>
+      <td width="10%" bgcolor="#EC4899" style="color:white;text-align:center;padding:10px;">DevOps (10%)</td>
+    </tr>
+  </table>
 
-```mermaid
-%%{init: {'theme':'dark', 'flowchart': {'curve':'linear'}}}%%
-pie
-    title Skill Distribution
-    "Frontend" : 45
-    "Backend" : 30
-    "Database" : 15
-    "DevOps" : 10
-```
-
-<table>
-  <tr>
-    <td>
-      <h3>Frontend</h3>
-      <div><b>React</b><br/><img src="https://progress-bar.dev/90/?width=400&color=4F46E5" /></div>
-      <div><b>JavaScript</b><br/><img src="https://progress-bar.dev/85/?width=400&color=4F46E5" /></div>
-      <div><b>HTML/CSS</b><br/><img src="https://progress-bar.dev/95/?width=400&color=4F46E5" /></div>
-      <div><b>TypeScript</b><br/><img src="https://progress-bar.dev/80/?width=400&color=4F46E5" /></div>
-    </td>
-    <td>
-      <h3>Backend</h3>
-      <div><b>Laravel</b><br/><img src="https://progress-bar.dev/85/?width=400&color=10B981" /></div>
-      <div><b>Node.js</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-      <div><b>Express</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-      <div><b>PHP</b><br/><img src="https://progress-bar.dev/80/?width=400&color=10B981" /></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Database</h3>
-      <div><b>MongoDB</b><br/><img src="https://progress-bar.dev/80/?width=400&color=F59E0B" /></div>
-      <div><b>MySQL</b><br/><img src="https://progress-bar.dev/85/?width=400&color=F59E0B" /></div>
-      <div><b>Oracle SQL</b><br/><img src="https://progress-bar.dev/75/?width=400&color=F59E0B" /></div>
-      <div><b>SQL Server</b><br/><img src="https://progress-bar.dev/70/?width=400&color=F59E0B" /></div>
-    </td>
-    <td>
-      <h3>DevOps & Tools</h3>
-      <div><b>Docker</b><br/><img src="https://progress-bar.dev/80/?width=400&color=EC4899" /></div>
-      <div><b>Kubernetes</b><br/><img src="https://progress-bar.dev/65/?width=400&color=EC4899" /></div>
-      <div><b>Git & CI/CD</b><br/><img src="https://progress-bar.dev/90/?width=400&color=EC4899" /></div>
-      <div><b>Linux</b><br/><img src="https://progress-bar.dev/85/?width=400&color=EC4899" /></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Programming Languages</h3>
-      <div><b>C++</b><br/><img src="https://progress-bar.dev/70/?width=400&color=3B82F6" /></div>
-      <div><b>Java</b><br/><img src="https://progress-bar.dev/65/?width=400&color=3B82F6" /></div>
-      <div><b>C</b><br/><img src="https://progress-bar.dev/60/?width=400&color=3B82F6" /></div>
-    </td>
-    <td>
-      <!-- Empty cell for balance -->
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>
+        <h3>Frontend</h3>
+        <div><b>React</b><br/><img src="https://progress-bar.dev/90/?width=400&color=4F46E5" /></div>
+        <div><b>JavaScript</b><br/><img src="https://progress-bar.dev/85/?width=400&color=4F46E5" /></div>
+        <div><b>HTML/CSS</b><br/><img src="https://progress-bar.dev/95/?width=400&color=4F46E5" /></div>
+        <div><b>TypeScript</b><br/><img src="https://progress-bar.dev/80/?width=400&color=4F46E5" /></div>
+      </td>
+      <td>
+        <h3>Backend</h3>
+        <div><b>Laravel</b><br/><img src="https://progress-bar.dev/85/?width=400&color=10B981" /></div>
+        <div><b>Node.js</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
+        <div><b>Express</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
+        <div><b>PHP</b><br/><img src="https://progress-bar.dev/80/?width=400&color=10B981" /></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Database</h3>
+        <div><b>MongoDB</b><br/><img src="https://progress-bar.dev/80/?width=400&color=F59E0B" /></div>
+        <div><b>MySQL</b><br/><img src="https://progress-bar.dev/85/?width=400&color=F59E0B" /></div>
+        <div><b>Oracle SQL</b><br/><img src="https://progress-bar.dev/75/?width=400&color=F59E0B" /></div>
+        <div><b>SQL Server</b><br/><img src="https://progress-bar.dev/70/?width=400&color=F59E0B" /></div>
+      </td>
+      <td>
+        <h3>DevOps & Tools</h3>
+        <div><b>Docker</b><br/><img src="https://progress-bar.dev/80/?width=400&color=EC4899" /></div>
+        <div><b>Kubernetes</b><br/><img src="https://progress-bar.dev/65/?width=400&color=EC4899" /></div>
+        <div><b>Git & CI/CD</b><br/><img src="https://progress-bar.dev/90/?width=400&color=EC4899" /></div>
+        <div><b>Linux</b><br/><img src="https://progress-bar.dev/85/?width=400&color=EC4899" /></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Programming Languages</h3>
+        <div><b>C++</b><br/><img src="https://progress-bar.dev/70/?width=400&color=3B82F6" /></div>
+        <div><b>Java</b><br/><img src="https://progress-bar.dev/65/?width=400&color=3B82F6" /></div>
+        <div><b>C</b><br/><img src="https://progress-bar.dev/60/?width=400&color=3B82F6" /></div>
+      </td>
+      <td>
+        <!-- Empty cell for balance -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- GITHUB STATS SECTION -->
@@ -316,10 +318,13 @@ pie
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" width="700px"/>
 </div>
 
-<!-- SPOTIFY SECTION -->
+<!-- SPOTIFY SECTION - FIXED -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="40"> Music Vibes</h2>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1" alt="Spotify" width="400px"/>
+  <!-- Using a static image as fallback instead of dynamic Spotify API -->
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="Spotify Now Playing" width="400px"/>
+  <!-- Alternative instruction: Replace YOUR_SPOTIFY_USER_ID with your actual Spotify ID -->
+  <!-- <p>To enable Spotify integration, replace "YOUR_SPOTIFY_USER_ID" with your actual Spotify user ID in the README code</p> -->
 </div>
 
 <!-- CONNECT SECTION -->
