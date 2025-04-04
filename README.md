@@ -58,43 +58,89 @@
 %%{init: {'theme':'dark', 'flowchart': {'curve':'linear'}}}%%
 pie
     title Skill Distribution
-    "Frontend" : 45
+    "Frontend" : 30
     "Backend" : 30
     "Database" : 15
-    "DevOps" : 10
+    "DevOps" : 25
 ```
-
-<table>
-  <tr>
-    <td>
-      <h3>Frontend</h3>
-      <div><b>React</b><br/><img src="https://progress-bar.dev/90/?width=400&color=4F46E5" /></div>
-      <div><b>JavaScript</b><br/><img src="https://progress-bar.dev/85/?width=400&color=4F46E5" /></div>
-      <div><b>HTML/CSS</b><br/><img src="https://progress-bar.dev/95/?width=400&color=4F46E5" /></div>
-      <div><b>TypeScript</b><br/><img src="https://progress-bar.dev/80/?width=400&color=4F46E5" /></div>
-    </td>
-    <td>
-      <h3>Backend</h3>
-      <div><b>Laravel</b><br/><img src="https://progress-bar.dev/85/?width=400&color=10B981" /></div>
-      <div><b>Node.js</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-      <div><b>Express</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-      <div><b>PHP</b><br/><img src="https://progress-bar.dev/80/?width=400&color=10B981" /></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Database</h3>
-      <div><b>MongoDB</b><br/><img src="https://progress-bar.dev/80/?width=400&color=F59E0B" /></div>
-      <div><b>MySQL</b><br/><img src="https://progress-bar.dev/85/?width=400&color=F59E0B" /></div>
-    </td>
-    <td>
-      <h3>DevOps & Tools</h3>
-      <div><b>Docker</b><br/><img src="https://progress-bar.dev/80/?width=400&color=EC4899" /></div>
-      <div><b>Kubernetes</b><br/><img src="https://progress-bar.dev/65/?width=400&color=EC4899" /></div>
-      <div><b>Git & CI/CD</b><br/><img src="https://progress-bar.dev/90/?width=400&color=EC4899" /></div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+    </tr>
+    <tr>
+      <td align="center">
+        React<br/>
+        <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white" width="100px"/>
+      </td>
+      <td align="center">
+        Laravel<br/>
+        <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        JavaScript<br/>
+        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="100px"/>
+      </td>
+      <td align="center">
+        Node.js<br/>
+        <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        HTML/CSS<br/>
+        <img src="https://img.shields.io/badge/-HTML5/CSS3-%23E34F26?style=flat-square&logo=html5&logoColor=white" width="100px"/>
+      </td>
+      <td align="center">
+        Express<br/>
+        <img src="https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        TypeScript<br/>
+        <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" width="100px"/>
+      </td>
+      <td align="center">
+        PHP<br/>
+        <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <th align="center">Database</th>
+      <th align="center">DevOps & Tools</th>
+    </tr>
+    <tr>
+      <td align="center">
+        MongoDB<br/>
+        <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" width="100px"/>
+      </td>
+      <td align="center">
+        Docker<br/>
+        <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        MySQL<br/>
+        <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" width="100px"/>
+      </td>
+      <td align="center">
+        Kubernetes<br/>
+        <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td align="center">
+        Git & CI/CD<br/>
+        <img src="https://img.shields.io/badge/-Git%20&%20CI/CD-%23F05032?style=flat-square&logo=git&logoColor=white" width="100px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- GITHUB STATS SECTION -->
@@ -203,10 +249,18 @@ pie
   </a>
 </div>
 
-<!-- SPOTIFY SECTION -->
+<!-- SPOTIFY SECTION WITH RELIABLE IMAGE -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="40"> Music Vibes</h2>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dqe4qgjocmgwn3dwc2lgznkx6i&cover_image=true&theme=default&show_offline=false&background_color=121212" width="300px">
+  <!-- Using a more reliable image method instead of dynamically generated content -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" width="200px"/>
+        <p>🎵 Currently listening to coding playlists</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- FOOTER -->
