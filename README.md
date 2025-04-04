@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="calc(100% - 400px)">
       <p>Hi there! 👋 I'm a passionate Full Stack Developer from Morocco with a love for creating elegant, efficient solutions to complex problems.</p>
       <p>My journey in web development has equipped me with a diverse skill set spanning front-end aesthetics to back-end architecture. I enjoy crafting intuitive user experiences while ensuring robust functionality under the hood.</p>
       <ul>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+      <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" alt="HTML/CSS"/>
       <br>HTML/CSS
     </td>
     <td align="center">
@@ -162,71 +162,67 @@
   </tr>
 </table>
 
-<!-- SKILLS SECTION WITH CREATIVE VISUALIZATION - FIXED VERSION -->
+<!-- SKILLS SECTION WITH CREATIVE VISUALIZATION -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Expertise Level</h2>
 </div>
 
 <div align="center">
-  <!-- Using a simple HTML table for the pie chart instead of Mermaid -->
-  <table>
-    <tr>
-      <td colspan="4" align="center"><h3>Skill Distribution</h3></td>
-    </tr>
-    <tr>
-      <td width="45%" bgcolor="#4F46E5" style="color:white;text-align:center;padding:10px;">Frontend (45%)</td>
-      <td width="30%" bgcolor="#10B981" style="color:white;text-align:center;padding:10px;">Backend (30%)</td>
-      <td width="15%" bgcolor="#F59E0B" style="color:white;text-align:center;padding:10px;">Database (15%)</td>
-      <td width="10%" bgcolor="#EC4899" style="color:white;text-align:center;padding:10px;">DevOps (10%)</td>
-    </tr>
-  </table>
 
-  <table>
-    <tr>
-      <td>
-        <h3>Frontend</h3>
-        <div><b>React</b><br/><img src="https://progress-bar.dev/90/?width=400&color=4F46E5" /></div>
-        <div><b>JavaScript</b><br/><img src="https://progress-bar.dev/85/?width=400&color=4F46E5" /></div>
-        <div><b>HTML/CSS</b><br/><img src="https://progress-bar.dev/95/?width=400&color=4F46E5" /></div>
-        <div><b>TypeScript</b><br/><img src="https://progress-bar.dev/80/?width=400&color=4F46E5" /></div>
-      </td>
-      <td>
-        <h3>Backend</h3>
-        <div><b>Laravel</b><br/><img src="https://progress-bar.dev/85/?width=400&color=10B981" /></div>
-        <div><b>Node.js</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-        <div><b>Express</b><br/><img src="https://progress-bar.dev/75/?width=400&color=10B981" /></div>
-        <div><b>PHP</b><br/><img src="https://progress-bar.dev/80/?width=400&color=10B981" /></div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Database</h3>
-        <div><b>MongoDB</b><br/><img src="https://progress-bar.dev/80/?width=400&color=F59E0B" /></div>
-        <div><b>MySQL</b><br/><img src="https://progress-bar.dev/85/?width=400&color=F59E0B" /></div>
-        <div><b>Oracle SQL</b><br/><img src="https://progress-bar.dev/75/?width=400&color=F59E0B" /></div>
-        <div><b>SQL Server</b><br/><img src="https://progress-bar.dev/70/?width=400&color=F59E0B" /></div>
-      </td>
-      <td>
-        <h3>DevOps & Tools</h3>
-        <div><b>Docker</b><br/><img src="https://progress-bar.dev/80/?width=400&color=EC4899" /></div>
-        <div><b>Kubernetes</b><br/><img src="https://progress-bar.dev/65/?width=400&color=EC4899" /></div>
-        <div><b>Git & CI/CD</b><br/><img src="https://progress-bar.dev/90/?width=400&color=EC4899" /></div>
-        <div><b>Linux</b><br/><img src="https://progress-bar.dev/85/?width=400&color=EC4899" /></div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Programming Languages</h3>
-        <div><b>C++</b><br/><img src="https://progress-bar.dev/70/?width=400&color=3B82F6" /></div>
-        <div><b>Java</b><br/><img src="https://progress-bar.dev/65/?width=400&color=3B82F6" /></div>
-        <div><b>C</b><br/><img src="https://progress-bar.dev/60/?width=400&color=3B82F6" /></div>
-      </td>
-      <td>
-        <!-- Empty cell for balance -->
-      </td>
-    </tr>
-  </table>
-</div>
+```mermaid
+%%{init: {'theme':'dark', 'flowchart': {'curve':'linear'}}}%%
+pie
+    title Skill Distribution
+    "Frontend" : 45
+    "Backend" : 30
+    "Database" : 15
+    "DevOps" : 10
+```
+<table>
+  <tr>
+    <td>
+      <h3>Frontend</h3>
+      <div><b>React</b><br/>90% ████████████████████░░</div>
+      <div><b>JavaScript</b><br/>85% ██████████████████░░░</div>
+      <div><b>HTML/CSS</b><br/>95% █████████████████████░</div>
+      <div><b>TypeScript</b><br/>80% █████████████████░░░░</div>
+    </td>
+    <td>
+      <h3>Backend</h3>
+      <div><b>Laravel</b><br/>90% ████████████████████░░</div>
+      <div><b>Node.js</b><br/>80% █████████████████░░░░</div>
+      <div><b>Express</b><br/>80% █████████████████░░░░</div>
+      <div><b>PHP</b><br/>95% █████████████████████░</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Database</h3>
+      <div><b>MongoDB</b><br/>80% █████████████████░░░░</div>
+      <div><b>MySQL</b><br/>85% ██████████████████░░░</div>
+      <div><b>Oracle SQL</b><br/>75% ███████████████░░░░░</div>
+      <div><b>SQL Server</b><br/>80% █████████████████░░░░</div>
+    </td>
+    <td>
+      <h3>DevOps & Tools</h3>
+      <div><b>Docker</b><br/>80% █████████████████░░░░</div>
+      <div><b>Kubernetes</b><br/>50% ██████████░░░░░░░░░░</div>
+      <div><b>Git & CI/CD</b><br/>90% ████████████████████░░</div>
+      <div><b>Linux</b><br/>90% ████████████████████░░</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Programming Languages</h3>
+      <div><b>C++</b><br/>85% ██████████████████░░░</div>
+      <div><b>Java</b><br/>70% ██████████████░░░░░░</div>
+      <div><b>C</b><br/>75% ███████████████░░░░░</div>
+    </td>
+    <td>
+      <!-- Empty cell for balance -->
+    </td>
+  </tr>
+</table>
 
 <!-- GITHUB STATS SECTION -->
 <div align="center">
