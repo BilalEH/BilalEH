@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/bilaleh/project1">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=bilaleh&repo=project1&theme=tokyonight&hide_border=true" />
+    <img height="120em" src="https://github.com/BilalEH/emsi-web-X-project&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/bilaleh/project2">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=bilaleh&repo=project2&theme=tokyonight&hide_border=true" />
