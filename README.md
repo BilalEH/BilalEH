@@ -260,18 +260,18 @@ pie
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <p align="center">
-          <a href="https://github.com/bilaleh/project1" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Project+Preview" width="100%" alt="Project 1"/>
+          <a href="https://github.com/BilalEH/emsi-web-X-project" target="_blank">
+            <img src="https://dummyimage.com/600x400/000/fff&text=Quiz+Game" width="100%" alt="quiz game application"/>
           </a>
         </p>
         <p>
-          <strong>React.js, Node.js, MongoDB</strong> - A full-stack web application for [project description].
-        </p>
+          <strong>React.js, Node.js, FIREBASE</strong> - A full-stack web application for quiz game.
+        </p
         <div align="center">
-          <a href="https://github.com/bilaleh/project1" target="_blank">
+          <a href="https://github.com/BilalEH/emsi-web-X-project" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project1-demo.com" target="_blank">
+          <a href="https://github.com/BilalEH/emsi-web-X-project" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </div>
@@ -279,18 +279,18 @@ pie
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <p align="center">
-          <a href="https://github.com/bilaleh/project2" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Project+Preview" width="100%" alt="Project 2"/>
+          <a href="https://github.com/BilalEH/PFE" target="_blank">
+            <img src="https://dummyimage.com/600x400/000/fff&text=2Annee+PFA" width="100%" alt="PFA Project"/>
           </a>
         </p>
         <p>
-          <strong>Laravel, MySQL, Vue.js</strong> - A web application that [project description].
+          <strong>Laravel, React.js, sql,vue.js</strong> - A web application that shool managment.
         </p>
         <div align="center">
-          <a href="https://github.com/bilaleh/project2" target="_blank">
+          <a href="https://github.com/BilalEH/PFE" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project2-demo.com" target="_blank">
+          <a href="https://github.com/BilalEH/PFE" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </div>
