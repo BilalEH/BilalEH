@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Data to models to serving to product pipeline: Python, SQL, Pandas, ETL, Hadoop, Spark, dbt, PyTorch, scikit-learn, XGBoost, TensorFlow, FastAPI, Spring Boot, Laravel, React, React Native, Docker, Azure">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#101c2e"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+</defs>
+<style>
+  text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .title{font-size:15px;font-weight:700;letter-spacing:2.5px}
+  .tech{font-size:13px;fill:#cbd5e1}
+  .flow{stroke-dasharray:6 8;animation:dash 1.4s linear infinite}
+  @keyframes dash{to{stroke-dashoffset:-14}}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+  @keyframes pulse{0%,100%{transform:scale(1);opacity:.35}50%{transform:scale(1.55);opacity:0}}
+  .rise{opacity:0;animation:rise .8s ease-out forwards}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<rect width="900" height="330" rx="16" fill="url(#bg)"/><rect width="900" height="330" rx="16" fill="url(#grid)"/>
+<text x="450.0" y="38" text-anchor="middle" fill="#e2e8f0" style="font-size:18px;font-weight:700;letter-spacing:1px">FROM RAW DATA TO PRODUCTION</text>
+<defs><linearGradient id="g0" gradientUnits="userSpaceOnUse" x1="116" y1="0" x2="244" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#22D3A6"/></linearGradient></defs>
+<line x1="116" y1="110" x2="244" y2="110" stroke="url(#g0)" stroke-width="3" class="flow" stroke-linecap="round"/>
+<circle r="4.5" fill="#fff" stroke="#ffffff" stroke-opacity=".35" stroke-width="5"><animateMotion dur="2.2s" repeatCount="indefinite" begin="0.0s" path="M116,110 L244,110"/></circle>
+<defs><linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="296" y1="0" x2="424" y2="0"><stop offset="0" stop-color="#22D3A6"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+<line x1="296" y1="110" x2="424" y2="110" stroke="url(#g1)" stroke-width="3" class="flow" stroke-linecap="round"/>
+<circle r="4.5" fill="#fff" stroke="#ffffff" stroke-opacity=".35" stroke-width="5"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.3s" path="M296,110 L424,110"/></circle>
+<defs><linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="476" y1="0" x2="604" y2="0"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+<line x1="476" y1="110" x2="604" y2="110" stroke="url(#g2)" stroke-width="3" class="flow" stroke-linecap="round"/>
+<circle r="4.5" fill="#fff" stroke="#ffffff" stroke-opacity=".35" stroke-width="5"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.6s" path="M476,110 L604,110"/></circle>
+<defs><linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="656" y1="0" x2="784" y2="0"><stop offset="0" stop-color="#F472B6"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<line x1="656" y1="110" x2="784" y2="110" stroke="url(#g3)" stroke-width="3" class="flow" stroke-linecap="round"/>
+<circle r="4.5" fill="#fff" stroke="#ffffff" stroke-opacity=".35" stroke-width="5"><animateMotion dur="2.8s" repeatCount="indefinite" begin="0.9s" path="M656,110 L784,110"/></circle>
+<g class="rise" style="animation-delay:0.00s">
+<circle cx="90" cy="110" r="26" fill="#36BCF7" class="pulse" style="animation-delay:0.0s"/>
+<circle cx="90" cy="110" r="22" fill="#0b1220" stroke="#36BCF7" stroke-width="3" filter="url(#glow)"/>
+<text x="90" y="116" text-anchor="middle" fill="#36BCF7" style="font-size:17px;font-weight:800">1</text>
+<text x="90" y="168" text-anchor="middle" fill="#36BCF7" class="title">DATA</text>
+<text x="90" y="196" text-anchor="middle" class="tech">Python</text>
+<text x="90" y="218" text-anchor="middle" class="tech">SQL</text>
+<text x="90" y="240" text-anchor="middle" class="tech">Pandas</text>
+</g>
+<g class="rise" style="animation-delay:0.15s">
+<circle cx="270" cy="110" r="26" fill="#22D3A6" class="pulse" style="animation-delay:0.4s"/>
+<circle cx="270" cy="110" r="22" fill="#0b1220" stroke="#22D3A6" stroke-width="3" filter="url(#glow)"/>
+<text x="270" y="116" text-anchor="middle" fill="#22D3A6" style="font-size:17px;font-weight:800">2</text>
+<text x="270" y="168" text-anchor="middle" fill="#22D3A6" class="title">PIPELINES</text>
+<text x="270" y="196" text-anchor="middle" class="tech">ETL / ELT</text>
+<text x="270" y="218" text-anchor="middle" class="tech">Hadoop</text>
+<text x="270" y="240" text-anchor="middle" class="tech">Spark</text>
+<text x="270" y="262" text-anchor="middle" class="tech">dbt</text>
+</g>
+<g class="rise" style="animation-delay:0.30s">
+<circle cx="450" cy="110" r="26" fill="#F59E0B" class="pulse" style="animation-delay:0.8s"/>
+<circle cx="450" cy="110" r="22" fill="#0b1220" stroke="#F59E0B" stroke-width="3" filter="url(#glow)"/>
+<text x="450" y="116" text-anchor="middle" fill="#F59E0B" style="font-size:17px;font-weight:800">3</text>
+<text x="450" y="168" text-anchor="middle" fill="#F59E0B" class="title">MODELS</text>
+<text x="450" y="196" text-anchor="middle" class="tech">PyTorch</text>
+<text x="450" y="218" text-anchor="middle" class="tech">scikit-learn</text>
+<text x="450" y="240" text-anchor="middle" class="tech">XGBoost</text>
+<text x="450" y="262" text-anchor="middle" class="tech">TensorFlow</text>
+</g>
+<g class="rise" style="animation-delay:0.45s">
+<circle cx="630" cy="110" r="26" fill="#F472B6" class="pulse" style="animation-delay:1.2s"/>
+<circle cx="630" cy="110" r="22" fill="#0b1220" stroke="#F472B6" stroke-width="3" filter="url(#glow)"/>
+<text x="630" y="116" text-anchor="middle" fill="#F472B6" style="font-size:17px;font-weight:800">4</text>
+<text x="630" y="168" text-anchor="middle" fill="#F472B6" class="title">SERVING</text>
+<text x="630" y="196" text-anchor="middle" class="tech">FastAPI</text>
+<text x="630" y="218" text-anchor="middle" class="tech">Spring Boot</text>
+<text x="630" y="240" text-anchor="middle" class="tech">Laravel</text>
+</g>
+<g class="rise" style="animation-delay:0.60s">
+<circle cx="810" cy="110" r="26" fill="#A78BFA" class="pulse" style="animation-delay:1.6s"/>
+<circle cx="810" cy="110" r="22" fill="#0b1220" stroke="#A78BFA" stroke-width="3" filter="url(#glow)"/>
+<text x="810" y="116" text-anchor="middle" fill="#A78BFA" style="font-size:17px;font-weight:800">5</text>
+<text x="810" y="168" text-anchor="middle" fill="#A78BFA" class="title">PRODUCT</text>
+<text x="810" y="196" text-anchor="middle" class="tech">React</text>
+<text x="810" y="218" text-anchor="middle" class="tech">React Native</text>
+<text x="810" y="240" text-anchor="middle" class="tech">Docker</text>
+<text x="810" y="262" text-anchor="middle" class="tech">Azure</text>
+</g>
+</svg>
